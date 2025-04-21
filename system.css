@@ -1,0 +1,18 @@
+
+window {
+  display: block;
+  border: 2px solid black;
+  padding: 1rem;
+  font-family: monospace;
+}
+title-bar {
+  display: block;
+  background: black;
+  color: white;
+  padding: 0.25rem;
+  font-weight: bold;
+}
+window-body {
+  display: block;
+  padding: 1rem 0;
+}
